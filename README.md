@@ -1,12 +1,24 @@
 # About me 
 
-Here are some ideas to get you started:
+🔭 Building a RAG Observatory dashboard to identify failure points and analyze failure patterns across RAG pipelines.
 
-- 🔭 I’m currently working on dashboard to show the breakpoints in the rag pipeline and analylze which steps contributes to the failure and the failure patterns.
-- 🌱 I’m currently learning RAG architecture in depth, system design, dashboard creations
-- 👯 I’m looking to collaborate on the AI projects in Evaluation, Observability, and Human-Computer Interaction
-- 🤔 I’m looking for a new career opportunity!
-- 💬 Ask me about anything related to data science
-- 📫 How to reach me: hyosang.data@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Newbee in Skateboarding
+🌱 Currently learning:
+
+* System Design
+* Dashboard Development
+* AI Evaluation & Observability
+
+🤝 Open to collaborating on AI projects related to:
+
+* Evaluation
+* Observability
+* Human-Computer Interaction (HCI)
+
+🚀 Actively looking for new career opportunities.
+
+💬 Happy to talk about Data Science, Machine Learning, NLP, and AI Engineering.
+
+📫 Reach me at: [hyosang.data@gmail.com](mailto:hyosang.data@gmail.com)
+
+⚡ Fun fact: I'm a beginner skateboarder 🛹
+
